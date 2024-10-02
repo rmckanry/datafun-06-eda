@@ -15,6 +15,4 @@ Install VENV and activate
 Install packages    
     py -m pip install pandas pyarrow
 
-
-
 ```
